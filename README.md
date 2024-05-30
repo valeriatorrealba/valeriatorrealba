@@ -4,6 +4,7 @@
 
 
 [![Linkedin: valeriatorrealba](https://img.shields.io/badge/-valeriatorrealba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valeriatorrealba/)](https://www.linkedin.com/in/valeriatorrealba/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:valeria.torrealba@gmail.com)
 [![GitHub valeriatorrealba](https://img.shields.io/github/followers/valeriatorrealba?label=follow&style=social)](https://github.com/valeriatorrealba)
 
 
