@@ -28,10 +28,19 @@ const Valeria = {
 ```
 <h2>💻 Some stats 💻</h2>
 
-![valeriatorrealba's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriatorrealba&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriatorrealba&layout=donut)](https://github.com/valeriatorrealba/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=valeriatorrealba&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valeriatorrealba&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=valeriatorrealba)](https://github.com/valeriatorrealba/github-readme-stats)
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/valeriatorrealba/count.svg" />
+
 
 <!--
 [![valeriatorrealba's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriatorrealba)](https://github.com/valeriatorrealba/github-readme-stats)
