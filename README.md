@@ -2,12 +2,9 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
-
 [![Linkedin: valeriatorrealba](https://img.shields.io/badge/-valeriatorrealba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valeriatorrealba/)](https://www.linkedin.com/in/valeriatorrealba/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:valeria.torrealba@gmail.com)
 [![GitHub valeriatorrealba](https://img.shields.io/github/followers/valeriatorrealba?label=follow&style=social)](https://github.com/valeriatorrealba)
-
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -29,16 +26,14 @@ const Valeria = {
    challenge: "I'm working towards being able to run a marathon.",
 }
 ```
-</br>
 <h2>💻 Some stats 💻</h2>
 
-[![valeriatorrealba's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriatorrealba)](https://github.com/valeriatorrealba/github-readme-stats)
-
+![valeriatorrealba's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriatorrealba&show_icons=true&theme=transparent)
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/valeriatorrealba/count.svg" />
 
 <!--
-
+[![valeriatorrealba's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriatorrealba)](https://github.com/valeriatorrealba/github-readme-stats)
 import SoftwareDeveloper from 'thompsonemerson';
 
 class Bio extends SoftwareDeveloper {
