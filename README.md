@@ -29,6 +29,7 @@ const Valeria = {
 <h2>💻 Some stats 💻</h2>
 
 ![valeriatorrealba's GitHub stats](https://github-readme-stats.vercel.app/api?username=valeriatorrealba&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriatorrealba&layout=donut)](https://github.com/valeriatorrealba/github-readme-stats)
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/valeriatorrealba/count.svg" />
 
