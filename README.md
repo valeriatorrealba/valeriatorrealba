@@ -18,9 +18,9 @@ const Valeria = {
          css: [ Bootstrap]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node", "Express"]
       },
-      databases: [ PostgreSQL ],
+      databases: [ PostgreSQL ]
    },
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
